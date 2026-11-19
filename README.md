@@ -9,4 +9,4 @@ We use WPRDC open data to rank all 90 Pittsburgh neighborhoods by how easy it is
 |---|---|---|
 | Yusuf Taniyici | yut154@pitt.edu | `notebooks/pogoh_stations.ipynb`: Bike Access Score |
 | Andrew Cue | arc504@pitt.edu | `notebooks/andrew.ipynb`: Parks |
-| Curtiss Kahmar | cak367@pitt.edu  |` `: Police Outreach|
+| Curtiss Kahmar | cak367@pitt.edu  |`Curtiss'_Outrreach_Data(1).ipynb `: Police Outreach|
